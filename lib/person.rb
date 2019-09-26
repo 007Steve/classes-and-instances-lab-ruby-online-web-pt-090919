@@ -1,5 +1,5 @@
 class adele_goldberg 
 end 
 
-class alan kay 
+class alan_kay 
 end
